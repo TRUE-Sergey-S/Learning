@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace LearningPractice
+namespace Learning
 {
-    class L_2056Scholarship
+    class L_2056_Scholarship
     {
         public void Start()
         {

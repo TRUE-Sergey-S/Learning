@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace LearningPractice
+
+namespace Learning
 {
-    class ResultTable_1100
+    class L_1100_ResultTable
     {
         struct Team
         {

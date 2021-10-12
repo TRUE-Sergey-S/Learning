@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LearningPractice
+namespace Learning
 {
     class DelegateAndEvent
     {
