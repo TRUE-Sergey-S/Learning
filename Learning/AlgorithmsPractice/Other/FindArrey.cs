@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
-using static Learning.СodeFeaturesLearning.BinarySearchTree;
+using System.Threading.Tasks;
 
-namespace Learning
+namespace Learning.AlgorithmsPractice.Other
 {
-    class Program
+    class FindArrey
     {
-        static void Main(string[] args)
+        public void Start()
         {
-            Console.WriteLine("Hello World!");
             var intArray = new List<int> { 1, 3, 2, 3, 4, 1 };
             StringBuilder resultFindUp = new StringBuilder();
             StringBuilder resultFindDown = new StringBuilder();
